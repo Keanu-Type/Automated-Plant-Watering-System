@@ -1,6 +1,6 @@
 # Automated-Plant-Watering-System
 Asynchronous Website and SOFTAPIP/Hotspot
-
+This is operated under PlatformIO of VS Code
 on Platform.ini, install this setup:
 
 The platform must be espressif32@3.5.0 ---
